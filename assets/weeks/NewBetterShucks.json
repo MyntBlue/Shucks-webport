@@ -1,0 +1,32 @@
+{
+	"storyName": "shucks Irida",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "e",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Shucks Irida",
+			"DETG",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Shucks Irida",
+	"hiddenUntilUnlocked": false
+}
