@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				426,
+				-7
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				427,
+				-7
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				426,
+				-7
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				426,
+				-7
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				425,
+				-9
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/good girl",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "good girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		232,
+		105,
+		34
+	],
+	"camera_position": [
+		-311,
+		39
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}
